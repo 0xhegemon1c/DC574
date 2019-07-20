@@ -4,7 +4,18 @@ body {
   background-image: URL("noisy-texture-100x100-o23-d62-c-0d0709-t0.png");
   background-repeat: repeat;
   background-color: black;
+  font-family: monospace;
 }
- nav {
-   green;
- }
+
+
+img {
+  width: 400px;
+  height: 455px;
+}
+
+span, a {
+  color: green;
+  font-family: monospace;
+  font-size: 20px;
+
+}
