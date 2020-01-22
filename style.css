@@ -25,5 +25,5 @@ span, a {
 }
 
 tr, td {
-  align: right;
+  align: right !important;
 }
