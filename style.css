@@ -26,6 +26,6 @@ span, a {
 
 tr, td {
   margin: auto;
-  width: 50%;
+  width: 25%;
   border: green solid 5px;
 }
