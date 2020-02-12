@@ -26,4 +26,5 @@ span, a {
 
 tr, td {
   align: right !important;
+  border: green solid 5px;
 }
